@@ -1,0 +1,10 @@
+.token
+.viewkey*
+tokens.txt
+usage.db*
+__pycache__/
+*-settings.json
+
+# local backups and old copies
+backup-*/
+*.before-ux
